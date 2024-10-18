@@ -1,9 +1,10 @@
 # Practicas-office
 
 Practicas: 
-Word
+## Word
+
 Practica 1.
-1.	Crea una carpeta en el escritorio que contenga tu nombre y guarda este documento en ella.
+1.	Crea un nuevo archivo en Word o Google Docs.
 2.	Da un margen de 2.5cm en todos los lados del documento.
 3.	Elimina el formato del documento a partir de la página 2, utilizando un texto fantasma con fuente Times New Roman a 12 puntos, justificado y escribe en el apartado rutas la ruta utilizada.
 4.	Elimina la palabra título y coloca un texto artístico con la palabra WORD
@@ -15,14 +16,26 @@ Practica 1.
  
 10.	Selecciona el texto junto con el título de “grupo de cintas de opciones y comandos”  y ajusta ambos textos en dos columnas. (Checa la pestaña disposición).
 11.	Sigue las indicaciones y completa las actividades que se encuentran en el documento.
+
 ![image](./bachilleres.png)
 
+## Excel
 
-Excel
-[Practicas excel](URL)
 
-Power Point
-[Practicas power point](URL)
+## Power Point
+Practica
+La primer diapositiva:
+
+Diseño solo título, donde se escribirá tu nombre completo con fuente arial roja 
+Relleno degradado en 2 colores
+Fondo: una imagen sobre el tema con una transparencia del 50%
+La segunda diapositiva:
+        Fondo:  una textura cualquiera
+Transición:
+Colocar a ambas diapositivas las misma transición
+Animación:
+Colocar animación solo al subtítulo de la segunda diapositiva. (de entrada y salida si corresponde por la versión).
+Escribe la ruta para insertar sonido en powerpoint, en la diapositiva  
 
 Definiciones:
 
