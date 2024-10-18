@@ -2,7 +2,21 @@
 
 Practicas: 
 Word
-[Practicas word](URL)
+Practica 1.
+1.	Crea una carpeta en el escritorio que contenga tu nombre y guarda este documento en ella.
+2.	Da un margen de 2.5cm en todos los lados del documento.
+3.	Elimina el formato del documento a partir de la página 2, utilizando un texto fantasma con fuente Times New Roman a 12 puntos, justificado y escribe en el apartado rutas la ruta utilizada.
+4.	Elimina la palabra título y coloca un texto artístico con la palabra WORD
+5.	Dale formato de título 1 a las palabras que están en mayúsculas (excepto las que digan actividad y la palabra Word)  
+6.	Inserta tabla de contenidos automática y escribe al final la ruta que utilizaste.
+7.	Inicia el párrafo 1 con letra capital en texto que ocupe dos líneas, escribe la ruta en la sección correspondiente.
+8.	Selecciona cada imagen en el texto y céntrala.
+9.	Pon la siguiente imagen como marca de agua para todo el texto.
+ 
+10.	Selecciona el texto junto con el título de “grupo de cintas de opciones y comandos”  y ajusta ambos textos en dos columnas. (Checa la pestaña disposición).
+11.	Sigue las indicaciones y completa las actividades que se encuentran en el documento.
+![image](./bachilleres.png)
+
 
 Excel
 [Practicas excel](URL)
